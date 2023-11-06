@@ -185,4 +185,4 @@ while play == "T":
         print("\nYou have already guessed all the words")
         break
                
-print("Thanks for the game")
+print("Thanks for the game!")
