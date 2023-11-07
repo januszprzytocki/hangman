@@ -5,8 +5,8 @@ import random
 words = [("doctor", "Profession"), ("architect", "Profession"), ("driver", "Profession"), ("surgeon", "Profession"),
          ("Practice makes perfect", "Proverb"), ("A penny saved is a penny earned", "Proverbs"),
          ("Fortune favours the brave", "Proverb"), ("The world is your oyster", "Proverb"),
-         ("New York", "City"), ("Warshaw", "City"), ("Tokyo", "City"), ("Copenhagen", "City"),
-         ("Footbol", "Sport"), ("artistic gymnastics", "Sport"), ("basketball", "Sport")]
+         ("New York", "City"), ("Warsaw", "City"), ("Tokyo", "City"), ("Copenhagen", "City"),
+         ("Football", "Sport"), ("artistic gymnastics", "Sport"), ("basketball", "Sport"), ("skiing", "Sport")]
 
 word = ""  # initialization of the variable in which we hold the word
 play = "T"
